@@ -1,2 +1,2 @@
 # rachel-s-tuckshop
-Rachel's Tuckshop is a retailer shop which is located at Maripe street with is selling snacks and drinks
+Rachel's Tuckshop is a retailer shop which is located at Maripe street which is sell snacks and drinks
